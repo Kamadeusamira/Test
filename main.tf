@@ -7,6 +7,6 @@ resource "aws_instance" "example_instance" {
   instance_type = "t2.micro"      # Replace with the desired instance type
 
   tags = {
-    Name = "ExampleInstance"  # Replace with your preferred instance name
+    Name = "testsamira"  # Replace with your preferred instance name
   }
 }
